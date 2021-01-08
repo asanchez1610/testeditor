@@ -1,0 +1,1 @@
+export { QuillTextEditor } from './src/QuillTextEditor.js';

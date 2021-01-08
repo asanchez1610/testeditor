@@ -1,0 +1,19 @@
+{
+  "name": "@demos-components/quill-text-editor",
+  "version": "1.0.0-rc.1",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@bbva-web-components/bbva-core-lit-helpers": "^1.0.4",
+    "@bbva-web-components/bbva-foundations-styles": "^2.3.5",
+    "lit-element": "^2.0.0",
+    "@ckeditor/ckeditor5-build-classic": "^11.0.1"
+  },
+  "devDependencies": {
+    "@cells/cells-component-core": "^3.0.0"
+  },
+  "peerDependencies": {
+    "@open-wc/testing": "2.x"
+  }
+}
